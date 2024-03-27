@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src=toji-fushiguro-jujusukaisen.gif>
+<img hight="400" width="800" src=toji-fushiguro-jujusukaisen.gif>
 </p>

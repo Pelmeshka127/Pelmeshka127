@@ -16,7 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
-<img hight="400" width="800" src=toji-fushiguro-jujusukaisen.gif>
-</p>
